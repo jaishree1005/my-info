@@ -1,4 +1,7 @@
-# my-info
+👋 Hi, I'm Jaishree – an enthusiastic learner and aspiring Data Analyst.
+🔍 Passionate about data analysis, visualization, and uncovering insights through Python, SQL, and financial statements.
+💡 Eager to explore the world of fintech and make data-driven decisions.
+📊 Currently building projects to strengthen my skills in NumPy, Pandas, HTML/CSS, and JavaScript.
 
 # 💻 Tech Stack:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
